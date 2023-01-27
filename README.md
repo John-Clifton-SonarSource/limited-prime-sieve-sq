@@ -6,4 +6,4 @@ Confirming that branch protection is in place.
 
 Testing coverage
 
-Small change to trigger SQ PR run - will need to add SQ badges as appropriate.
+Will need to add SQ badges as appropriate.
