@@ -112,4 +112,7 @@ print("pause for effect")
 
 improved_add_stuff(5,4)
 
+print("adding a line to test SQ code coverage")
+
+
 
