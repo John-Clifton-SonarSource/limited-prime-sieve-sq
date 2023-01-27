@@ -6,6 +6,4 @@ Confirming that branch protection is in place.
 
 Testing coverage
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=John-Clifton-SonarSource_limited-prime-sieve&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=John-Clifton-SonarSource_limited-prime-sieve)
-
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/summary/new_code?id=John-Clifton-SonarSource_limited-prime-sieve)
+Small change to trigger SQ PR run - will need to add SQ badges as appropriate.
