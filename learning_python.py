@@ -4,7 +4,7 @@ print(value)
 print(type(value))
 
 listTest = {1,3,4} 
-
+ 
 print(listTest)
 
 a,b = divmod(9,4)
