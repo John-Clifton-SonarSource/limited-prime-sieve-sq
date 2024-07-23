@@ -3,7 +3,7 @@ print(value)
 
 print(type(value))
 
-listTest = {1,3,4}
+listTest = {1,3,4} 
 
 print(listTest)
 
