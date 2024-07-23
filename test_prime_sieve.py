@@ -11,7 +11,7 @@ def test_complex_code():
     p.complex_code(3,7,6,5,4,3,2)
     p.complex_code(4,7,6,5,4,3,2)
     p.complex_code(5,7,6,5,4,3,2)
-    p.complex_code(6,7,6,5,4,3,2)
+    p.complex_code(6,7,6,5,4,3,2) 
     p.complex_code(7,7,6,5,4,3,2)
 
     p.complex_code2(1,7,6,5,4,3,2)
